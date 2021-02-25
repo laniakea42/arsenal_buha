@@ -401,8 +401,11 @@
 	}
 }
 
+.rel_tarif {overflow: hidden;}
+
 .rel_inst {
 	padding-bottom: 130px;
+	overflow: hidden;
 	.rt {
 		width: 133px;
 		height: 99px;
